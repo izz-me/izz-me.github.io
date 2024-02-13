@@ -4,7 +4,9 @@ title: Automating DNS Lookups and Pings with PowerShell
 category:
 - Scripting
 - PowerShell
-tags: 
+tags:
+- nslookup
+- ping
 date: 2024-02-02 13:26 -0700
 ---
 In this article, we will explore a PowerShell script that reads a list of hostnames or IP addresses from a file, performs DNS lookups, and then pings each address, outputting the results in a user-friendly manner.

@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Retrieving a List of Installed Applications on Multiple Computers with PowerShell
+title: Retrieving a List of Installed Applications on Multiple Citrix VDIs with PowerShell
 category:
 - Scripting
 - PowerShell
-tags: 
+tags:
+- citrix
 date: 2024-02-01 19:20 -0700
 ---
 In this blog post, we'll explore a PowerShell script that retrieves a list of installed applications on multiple Citrix virtual desktops. This script leverages the Citrix PowerShell module to gather information about virtual desktops and utilizes WMI (Windows Management Instrumentation) to retrieve details about installed applications.
