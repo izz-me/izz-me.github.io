@@ -4,7 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-I'm Israel Mendes, a Systems Engineer and Product Owner based in Salt Lake City, UT, with a robust background in building IT infrastructures and fostering efficient, secure technical environments. I hold a Master's degree in Information Systems and several technical certifications. I try to blend academic rigor with practical ability in managing and optimizing IT infrastructures.
+I'm Israel Mendes, a Systems Engineer and Product Owner based in Salt Lake City, UT, with a robust background in building IT infrastructures and fostering efficient, secure technical environments. I hold a Master's degree in Information Systems and several technical certifications. I try to blend academic rigor with practical ability in managing and optimizing user-friendly IT systems.
+
+![Desktop View](/assets/lib/about.jpg){: w="300" h="300" }{: .right }
 
 I thrive on steering projects from conception to deployment, ensuring they not only meet but exceed our strategic objectives. I bridge the gap between technical and non-technical stakeholders, facilitating seamless communication and collaboration across diverse teams. My approach is holistic – focusing on automating processes, mentoring teams, and a "no hard feelings, just troubleshoot" mentatily.
 
