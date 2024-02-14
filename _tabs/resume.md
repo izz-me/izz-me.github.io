@@ -3,6 +3,7 @@ layout: page
 title: Resume
 order: 5
 icon: fa-solid fa-file
+toc: true
 ---
 ## Technical Skills
 ***
@@ -56,7 +57,7 @@ icon: fa-solid fa-file
 
 ## Education
 ***
-### Master of Science in Information System
+### Master of Science in Information Systems
 **University of Utah, David Eccles School of Business** (August 2023)
   - Academic Excellence Award. GPA: 4.0
 
