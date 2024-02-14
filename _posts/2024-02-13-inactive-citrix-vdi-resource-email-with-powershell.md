@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Inactive Citrix VDI Resoure Email with PowerShell
+title: Inactive Citrix VDI Resource Email with PowerShell
 date: 2024-02-13 16:08 -0700
 category:
 - Scripting
