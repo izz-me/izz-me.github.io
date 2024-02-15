@@ -42,7 +42,7 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.3
+          ruby-version: 3.2
           bundler-cache: true
 
       - name: Build site
@@ -63,7 +63,7 @@ jobs:
 
   deploy:
     environment:
-      name: github-pages
+      name: github-pages1
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
